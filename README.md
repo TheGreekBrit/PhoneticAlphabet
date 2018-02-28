@@ -1,5 +1,5 @@
 # PhoneticAlphabet
-Translates a string of text into its phonetic equivalent. Python 2.7
+Translates a string of text into its phonetic equivalent.
 
 # Requirements
 * Python 2.7
