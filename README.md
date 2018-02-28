@@ -1,6 +1,10 @@
 # PhoneticAlphabet
 Translates a string of text into its phonetic equivalent. Python 2.7
 
+# Requirements
+* Python 2.7
+* Tkinter (should be included with python)
+
 # Usage
 
 1. Install requirements
